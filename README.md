@@ -19,3 +19,9 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+## Запуск тестов 
+```
+# В корне проекта
+pytest
+```
